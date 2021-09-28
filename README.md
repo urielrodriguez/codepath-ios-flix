@@ -22,4 +22,4 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 <img src="flix.gif" width="600" height="600" />
 
 ### Notes
-Describe any challenges encountered while building the app.
+I encountered an issue with my tableView outlet giving me an error when running but was able to fix it by looking up previous messages in Slack.
